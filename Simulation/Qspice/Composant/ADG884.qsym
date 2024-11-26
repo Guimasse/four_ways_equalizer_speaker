@@ -1,0 +1,21 @@
+ÿØÿÛ«symbol
+  «type: X»
+  «description: Machine generated symbol for ADG884»
+  «library file: C:\Users\guill\Desktop\enceinte_audio_4_voies_equaliseur\four_ways_equalizer_speaker\Simulation\Composants\ADG884_full.txt»
+  «shorted pins: false»
+  «line (0,1200) (0,1000) 0 0 0x1000000 -1 -1»
+  «line (0,-1200) (0,-1000) 0 0 0x1000000 -1 -1»
+  «rect (-600,-1000) (600,1000) 0 0 0 0xff0000 0x4000000 -1 0 -1»
+  «text (0,133) 1 15 0 0x1000000 -1 -1 "X1"»
+  «text (50,-33) 1 15 0 0x1000000 -1 -1 "ADG884"»
+  «pin (0,1200) (40,-100) 1 7 0 0x0 -1 "Vcc"»
+  «pin (-600,800) (30,0) 1 7 0 0x0 -1 "S1A"»
+  «pin (600,500) (-210,10) 1 7 0 0x0 -1 "D1"»
+  «pin (-600,200) (30,0) 1 7 0 0x0 -1 "IN1"»
+  «pin (-600,-500) (30,0) 1 7 0 0x0 -1 "S1B"»
+  «pin (0,-1200) (350,110) 1 11 0 0x0 -1 "GND"»
+  «pin (-600,-800) (300,0) 1 11 0 0x0 -1 "S2B"»
+  «pin (-600,-200) (280,0) 1 11 0 0x0 -1 "IN2"»
+  «pin (600,-500) (-20,0) 1 11 0 0x0 -1 "D2"»
+  «pin (-600,500) (300,0) 1 11 0 0x0 -1 "S2A"»
+»
