@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1_My_Lib")(type "KiCad")(uri "${KIPRJMOD}/1_My_Lib.kicad_sym")(options "")(descr ""))
+  (lib (name "Equalizer_classe_D-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Equalizer_classe_D-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "UNO-TH_Rev3e-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/UNO-TH_Rev3e-eagle-import.kicad_sym")(options "")(descr ""))
+)
